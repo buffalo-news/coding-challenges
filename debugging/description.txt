@@ -1,0 +1,25 @@
+##
+# Debugging
+#
+#
+# Level -   Basic
+# Time  -   < 1 Hour
+#
+#
+# Objective
+##
+
+This task is designed to test your ability to read other developer's code, debug the code and quickly fix only what is broken without refactoring
+the entire codebase.
+
+##
+# Task
+##
+
+Run the included PHP file with the included input file "Sales_Counts_Zip.csv". Find the existing 5 errors and fix them with minimal refactoring.
+
+The solution should:
+    1) Include the fixed code that outputs each state's highest and lowest number of sales with the corresponding region and month/year according
+      according to the specifications provided in the beginning of the PHP file
+    2) Indicate the errors fixed and how they were found using comments in the code
+
