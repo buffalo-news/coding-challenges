@@ -1,0 +1,34 @@
+##
+# Max Value Function
+#
+#
+# Level -   Basic
+# Time  -   < 1 Hour
+#
+#
+# Objective
+##
+
+This task is designed to test your knowledge of basic coding and testing principles.
+
+##
+# Task
+##
+
+Create a maximum value function in any language of your choosing. The function should accept an array containing the numbers to be evaluated
+```values=[#,#,#...]```. 
+
+The function should:
+    1) Produce an error if one of the array values is not a number
+    2) Return the maximum value found within the array
+    
+    
+Include a .txt file that outlines at least 5 test cases to be used to confirm that the function completes the task assigned with an explanation of why 
+they were chosen.
+
+##
+# Notes
+##
+
+Have some fun with this and make it your own.
+Include lots of comments so that we can get a feel for your thought process while working through this task.
