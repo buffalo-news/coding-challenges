@@ -1,2 +1,2 @@
-# coding-challenges
-Coding challenges for applicants to the Buffalo News
+# coding-questions
+Coding questions for The Buffalo News
